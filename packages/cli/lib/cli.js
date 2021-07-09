@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('hello mvtest!!');
+console.log('hello mtd!!');
